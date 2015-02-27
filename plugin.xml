@@ -21,7 +21,7 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
 xmlns:android="http://schemas.android.com/apk/res/android"
            id="com.teamnemitoff.file"
-      version="1.3.4-dev">
+      version="1.3.4.1">
     <name>File</name>
     <description>Cordova File Plugin (without android SCAN_MEDIA on write)</description>
     <license>Apache 2.0</license>
