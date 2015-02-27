@@ -568,7 +568,7 @@ public class LocalFilesystem extends Filesystem {
             	// Always close the output
             	out.close();
             }
-            broadcastNewFile(inputURL);
+            //broadcastNewFile(inputURL);
         }
         catch (NullPointerException e)
         {
