@@ -16,7 +16,8 @@
          specific language governing permissions and limitations
          under the License.
 -->
+Disabled broadcastNewFile() on each write
 
 # org.apache.cordova.file
 
-Plugin documentation: [doc/index.md](doc/index.md)
+Original Plugin documentation: [doc/index.md](doc/index.md)
